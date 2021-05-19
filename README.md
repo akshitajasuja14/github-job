@@ -1,5 +1,22 @@
 # Getting Started with Create React App
 
+In first terminal
+
+```Javascript
+ 1. npm install
+ 2. npm start
+```
+    
+In another terminal
+
+```Javascript
+
+1. nodemon server.js
+
+ ```
+
+and access the application at `http://localhost:3000/`
+    
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
